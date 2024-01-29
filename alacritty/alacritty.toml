@@ -1,0 +1,13 @@
+[window]
+opacity = 0.9
+
+[font]
+normal = { family = "SourceCodePro", style = "Regular" }
+bold = { family = "SourceCodePro", style = "Bold" }
+italic = { family = "SourceCodePro", style = "Italic" }
+bold_italic = { family = "SourceCodePro", style = "Bold Italic" }
+size = 13
+offset = { x = 0, y = 0 }
+
+[cursor]
+style = { shape = "Underline", blinking = "Always" }
