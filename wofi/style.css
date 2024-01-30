@@ -1,0 +1,35 @@
+* {
+        border-radius: 8px;
+        border: none;
+}
+
+window {
+        font-size: 17px;
+        border-radius: 10px;
+        font-family: "Ubuntu Mono Medium";
+        background-color: rgba(30, 30, 46, 0.95);
+}
+
+#entry:selected {
+        background-color: rgba(137, 180, 250, 0.4);
+}
+
+#text:selected {
+        color: #cdd6f4;
+}
+
+#input {
+        margin: 2px 3px;
+        border-radius: 10px;
+        color: #cdd6f4;
+}
+
+#inner-box {
+        margin: 2px;
+        border-radius: 10px;
+}
+
+#outer-box {
+        margin: 2px;
+        border-radius: 10px;
+}
