@@ -11,11 +11,11 @@ window {
 }
 
 #entry:selected {
-        background-color: rgba(137, 180, 250, 0.4);
+        background-color: rgba(137, 180, 250, 1);
 }
 
 #text:selected {
-        color: #cdd6f4;
+        color: #1e1e2e;
 }
 
 #input {
