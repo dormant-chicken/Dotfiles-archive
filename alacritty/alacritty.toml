@@ -2,11 +2,11 @@
 opacity = 0.9
 
 [font]
-normal = { family = "SourceCodePro", style = "Regular" }
-bold = { family = "SourceCodePro", style = "Bold" }
-italic = { family = "SourceCodePro", style = "Italic" }
-bold_italic = { family = "SourceCodePro", style = "Bold Italic" }
-size = 13
+normal = { family = "JetBrainsMonoNerdFont", style = "Regular" }
+bold = { family = "JetBrainsMonoNerdFont", style = "Bold" }
+italic = { family = "JetBrainsMonoNerdFont", style = "Italic" }
+bold_italic = { family = "JetBrainsMonoNerdFont", style = "Bold Italic" }
+size = 14
 offset = { x = 0, y = 0 }
 
 [cursor]
