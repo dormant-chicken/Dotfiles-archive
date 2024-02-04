@@ -8,7 +8,8 @@ font-size = 14
 prompt-text = " Search: "
 font = /usr/share/fonts/adobe-source-code-pro/SourceCodePro-Medium.otf
 outline-width = 0
-border-width = 0
+border-width = 3
+border-color = #89b4fa
 
 text-color = #ffffff
 text-cursor-color = #ffffff
@@ -25,3 +26,4 @@ padding-top = 5
 padding-bottom = 0
 padding-left = 0
 padding-right = 0
+hint-font = false
