@@ -1,7 +1,7 @@
 # Dotfiles
 
 ![mako](https://github.com/dormant-chicken/Dotfiles/blob/main/assets/mako.png)
-![firefox](https://github.com/dormant-chicken/Dotfiles/blob/main/assets/Firefox.png)
+![tofi](https://github.com/dormant-chicken/Dotfiles/blob/main/assets/tofi.png)
 ![wlogout](https://github.com/dormant-chicken/Dotfiles/blob/main/assets/wlogout.png)
 
 <br>
