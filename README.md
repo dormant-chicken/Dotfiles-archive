@@ -10,13 +10,13 @@
 
 These are needed:
 
-`adobe-source-code-pro-fonts`
+`ttf-jetbrains-mono-nerd`
 
 <br>
 
 You can install them on arch with
 ```
-sudo pacman -S adobe-source-code-pro-fonts
+sudo pacman -S ttf-jetbrains-mono-nerd
 ```
 
 <br>
