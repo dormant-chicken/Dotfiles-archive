@@ -10,15 +10,13 @@
 
 These are needed:
 
-`ttf-roboto-mono`
-
 `adobe-source-code-pro-fonts`
 
 <br>
 
 You can install them on arch with
 ```
-sudo pacman -S ttf-roboto-mono adobe-source-code-pro-fonts
+sudo pacman -S adobe-source-code-pro-fonts
 ```
 
 <br>
