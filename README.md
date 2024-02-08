@@ -31,3 +31,19 @@ sudo pacman -S ttf-jetbrains-mono-nerd
 [Catppiccin GTK theme](https://github.com/catppuccin/gtk/releases)
 
 [Papirus icon theme](https://www.gnome-look.org/p/1166289)
+
+<br>
+
+## Zsh extensions
+
+These are the zsh extensions that I use:
+
+[zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+[zsh syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+
+[catppuccin zsh syntax highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
+
+[powerlevel10k zsh theme](https://github.com/romkatv/powerlevel10k)
+
+[zsh history substring search](https://github.com/zsh-users/zsh-history-substring-search)
